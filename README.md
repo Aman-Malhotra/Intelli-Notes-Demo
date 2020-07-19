@@ -2,8 +2,6 @@
 
 Demo for the application : https://youtu.be/-iz7bDDwsh4
 
-APK download link : https://drive.google.com/drive/folders/1nrGeDXOyDEiyyf4XErZjqW6MmMzyX1uJ?usp=sharing
-
 Architecture : https://drive.google.com/drive/folders/1nrGeDXOyDEiyyf4XErZjqW6MmMzyX1uJ?usp=sharing
 
 
