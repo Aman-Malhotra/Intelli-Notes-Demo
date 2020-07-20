@@ -2,7 +2,7 @@
 
 Demo for the application : https://youtu.be/-iz7bDDwsh4
 
-Architecture : https://drive.google.com/drive/folders/1nrGeDXOyDEiyyf4XErZjqW6MmMzyX1uJ?usp=sharing
+Architecture : https://raw.githubusercontent.com/Aman-Malhotra/Intelli-Notes-Architecture/main/IntelliNotesNew.png
 
 
 | IntelliNotes | Features and Screenshots |
